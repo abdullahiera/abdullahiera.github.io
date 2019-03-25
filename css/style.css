@@ -149,8 +149,12 @@ article#main-col{
   width:65%;
 }
 .btn{
+  text-align: center;
+}
+.btn2{
   margin-top:20px;
   text-align: center;
+
 }
 footer{
   padding:20px;
